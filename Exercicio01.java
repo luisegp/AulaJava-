@@ -13,8 +13,6 @@ public class Exercicio01 {
         else{
             System.out.println("O número informado é menor ou igual a 10.");
         }
-
-
         leitor.close();
     }
 }
