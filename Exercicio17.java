@@ -23,7 +23,7 @@ public class Exercicio17 {
 
         double media = (n1 * p1 + n2 * p2 + n3 * p3) / p1 * p2 * p3;
 
-        System.out.println("A média dos valores dados é: " + media);
+        System.out.println("A média harmonica dos valores dados é: " + media);
         
         leitor.close();
     }
