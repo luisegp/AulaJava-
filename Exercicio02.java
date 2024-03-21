@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Exercicio02 {
-   public static void main(String[] args){
+   public static void executar(){
         Scanner leitor = new Scanner(System.in);
 
         System.out.println("Informe um número: ");
