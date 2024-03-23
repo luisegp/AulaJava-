@@ -8,7 +8,7 @@ public class Programa {
         switch (opcao) {
             case 1:
                 System.out.println("Executando exercicio 1...");
-                Exercicio02.executar();
+                Exercicio01.executar();
                 break;
             case 2:
                 System.out.println("Executando exercicio 2...");
