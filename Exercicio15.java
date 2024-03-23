@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Exercicio15 {
-    public static void main(String[] args){
+    public static void executar(){
         Scanner leitor = new Scanner(System.in);
 
         System.out.println("Digite as coordenadas de p1 (X1)");
