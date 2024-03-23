@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Exercicio14 {
-    public static void main(String[] args){
+    public static void executar(){
         Scanner leitor = new Scanner(System.in);
 
         System.out.println("Vamos fazer uma PA. Informe o valor de do A1: ");
